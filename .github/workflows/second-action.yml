@@ -12,5 +12,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: End Goal
-      - run: echo "Get to FAANG level or equivalent, deployed multiple products whether apps, websites & start the ACompleteNoobSmoke Academy"
+        run: echo "Get to FAANG level or equivalent, deployed multiple products whether apps, websites & start the ACompleteNoobSmoke Academy"
        
