@@ -1,0 +1,16 @@
+name: Second Action
+on: workflow_dispatch
+jobs:
+  start:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Main Goal
+        run: echo "I want to be a Master Programmer"
+      - name: Reason
+        run:  echo "Because it opens many avenues for job, income, creating master level projects and teaching"
+  end:
+    runs-on: ubuntu-latest
+    steps:
+      - name: End Goal
+      - run: echo "Get to FAANG level or equivalent, deployed multiple products whether apps, websites & start the ACompleteNoobSmoke Academy"
+       
